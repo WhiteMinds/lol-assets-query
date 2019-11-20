@@ -1,0 +1,14 @@
+{
+  "name": "lol-assets-query",
+  "version": "1.0.0",
+  "description": "英雄联盟所有大区资产 (精粹, 英雄, 皮肤等) 查询",
+  "main": "index.js",
+  "repository": "https://github.com/WhiteMinds/lol-assets-query",
+  "author": "whitemind@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "query-string": "^6.9.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
